@@ -16,12 +16,12 @@ ul{
 }
 .container{
     width:calc(100% - 120px);
-    margin: auto;
+    margin: 0 auto;
   
 } 
 .row{
     display: flex;
     justify-content: space-between;
     align-items:center;
-    flex-wrap: wrap;
+     
 }
